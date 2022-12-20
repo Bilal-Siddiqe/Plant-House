@@ -1,11 +1,11 @@
 import './App.css';
+import { Navbar } from './components/Navbar';
 
 function App() {
   return (
     <>
-
-      <h1 className='text-danger'>App is Working</h1>
-
+    <Navbar/>
+    
     </>
   );
 }
