@@ -3,7 +3,7 @@ import './Navbar.css';
 
 export const Navbar = () => {
     return (
-        <nav class="navbar navbar-expand-lg pt-2">
+        <nav class="navbar navbar-expand-lg pt-3">
             <div class="container">
 
                 <a class="navbar-brand text-success fw-bolder " href="#" >Plant House</a>
@@ -30,9 +30,8 @@ export const Navbar = () => {
 
                     <form class="d-flex position-relative" role="search">
                         <input class="form-control me-2 ps-5" type="search" placeholder="Search plants..." aria-label="Search"/>
-                        <i class="fa-solid fa-magnifying-glass position-absolute mt-2 ms-2 top-0 start-25"></i>
+                        <i class="fa-solid fa-magnifying-glass position-absolute mt-2 ms-3 top-0 start-25"></i>
                     </form>
-
                 </div>
             </div>
         </nav>
