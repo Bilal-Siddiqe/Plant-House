@@ -23,9 +23,9 @@ export const Herosection = () => {
                     <div className="container bg-white d-flex justify-content-center rounded  align-items-center position-relative hero-footer">
                         <ul className='d-flex align-items-center hero-footer-ul '>
                             <li className='mx-5 py-5 fw-bold h4 text-muted'>CAREER BOOSTING</li>
-                            <li className='mx-5 py-5 fw-bold h4 text-muted'>GOOGLE</li>
+                            <li className='mx-5 py-5 fw-bold h4 text-muted'>GOOGLE Docs</li>
                             <li className='mx-5 py-5 fw-bold h4 text-muted'>AB SOLUTION</li>
-                            <li className='mx-5 py-5 fw-bold h4 text-muted'>REALME</li>
+                            <li className='mx-5 py-5 fw-bold h4 text-muted'>REAL ME</li>
                         </ul>
                     </div>
             </div>
