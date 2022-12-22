@@ -15,7 +15,7 @@ export const Herosection = () => {
                     </div>
                     <p className='col-lg-4 mt-3 ps-2'>Provide your home & office the right plants with our with our experts </p>
                     <div className="container row mb-5 pb-2">
-                        <button className="col-lg-3 btn btn-success btn-lg mt-5 px-5 py-4 fw-bolder">Get Your Plants</button>
+                        <button className="btn-shadow col-lg-3 btn btn-success btn-lg mt-5 px-5 py-4 fw-bolder">Get Your Plants</button>
                         <a href="" className='col-6 ms-3 ps-3 pt-4 mt-5 text-white'><i class="fa-regular fa-circle-play"></i> Guid video to understand about plants</a>
                     </div>
                 </div>

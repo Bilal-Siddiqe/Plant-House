@@ -9,3 +9,8 @@ ul{
 .hero-footer{
      top: 50px;
 }
+.btn-shadow{
+     box-shadow: 1px 1px 30px 5px rgba(0, 128, 0, 0.669);
+     color: white;
+     font-size: 22px;
+}
